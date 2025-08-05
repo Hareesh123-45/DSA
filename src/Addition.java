@@ -7,5 +7,4 @@ public class Addition {
         }
         System.out.println(fact);
         }
-
     }
